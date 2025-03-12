@@ -1,2 +1,1 @@
-# Calcular_Dias_Vida_Edad_C
- Calcular los días vividos según la edad con C++
+Enunciado del ejercicio resuelto de programación en C++: realizar un programa que pida el nombre y la edad de la persona y muestre por pantalla el número de días vividos. Más información en: https://proyectoa.com/calcular-los-dias-vividos-segun-la-edad-con-c/
